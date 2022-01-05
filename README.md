@@ -1,11 +1,14 @@
-# ЕГЭ по информатике
+# xkurs.github.io
 
 - 👋 Hi, I’m @xkurs
-- 👀 [Демонстрационная версия ЕГЭ—2021 по информатике](https://github.com/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb "ЕГЭ по информатике")
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I’m interested in ...
+
+## ЕГЭ по информатике
+
+- 👀 [Демонстрационная версия ЕГЭ—2021 по информатике](https://github.com/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb "ЕГЭ по информатике")
 
 <!---
 xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
