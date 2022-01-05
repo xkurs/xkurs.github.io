@@ -1,12 +1,11 @@
 # xkurs.github.io
+https://github.com/xkurs
 
 - 👋 Hi, I’m @xkurs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-https://github.com/xkurs
 
 ## ЕГЭ по информатике
 
