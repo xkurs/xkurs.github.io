@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+https://github.com/xkurs
+
 ## ЕГЭ по информатике
 
 - 👀 [Демонстрационная версия ЕГЭ—2021 по информатике](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb "ЕГЭ-2021 по информатике")
