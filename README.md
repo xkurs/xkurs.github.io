@@ -8,7 +8,7 @@
 
 ## ЕГЭ по информатике
 
-- 👀 [Демонстрационная версия ЕГЭ—2021 по информатике](https://github.com/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb "ЕГЭ по информатике")
+- 👀 [Демонстрационная версия ЕГЭ—2021 по информатике](https://nbviewer.org/github/xkurs/KEGE/blob/master/KEGE2021/KEGE2021.ipynb "ЕГЭ-2021 по информатике")
 
 <!---
 xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
