@@ -1,5 +1,5 @@
 # xkurs.github.io
-[github.com/xkurs/](https://github.com/xkurs/ "https://github.com/xkurs/")
+[github.com/xkurs](https://github.com/xkurs/ "https://github.com/xkurs/")
 
 - 👋 Hi, I’m @xkurs
 - 👀 I’m interested in ...
