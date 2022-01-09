@@ -1,4 +1,3 @@
-## GitHub
 ![Start](img/time-g28ecd4d16_1920-1024x410.jpg "Start")
 
 ### Информационные технологии
