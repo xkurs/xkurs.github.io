@@ -4,7 +4,7 @@
 
 ## [Информатика, физика, астрономия](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
 
-## [Школа 179: курс Python](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
+## [Школа 179 (курс Python)](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
 ## [КЕГЭ (ЕГЭ по информатике)](https://xkurs.github.io/KEGE/)
 
