@@ -6,7 +6,7 @@
 
 ## [Школа 179: курс Python](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
-## [ЕГЭ по информатике](https://xkurs.github.io/KEGE/)
+## [КЕГЭ (ЕГЭ по информатике)](https://xkurs.github.io/KEGE/)
 
 <!---
 xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
