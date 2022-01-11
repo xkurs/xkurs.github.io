@@ -9,7 +9,7 @@
 * Астрономия
 * Расписание
 
-## [Школа 179: курс Python](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
+## [Школа 179](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
 * Информатика 10-11
 
