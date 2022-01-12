@@ -15,7 +15,7 @@
 
 ## [КЕГЭ](https://xkurs.github.io/KEGE/)
 
-* ЕГЭ по информатике
+* Подготовка к ЕГЭ по информатике
 
 <!---
 xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
