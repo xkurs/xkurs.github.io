@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Информатика 9  
 Физика  
-Астрономия  
-Расписание
+Астрономия
 
 # [Школа 179](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
