@@ -16,6 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 # [КЕГЭ](https://xkurs.github.io/KEGE/)
 
-![Start](img/time-g28ecd4d16_1920-1024x410.jpg "Start")
-
 Подготовка к ЕГЭ по информатике
