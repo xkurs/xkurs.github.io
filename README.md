@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 ## [КЕГЭ](https://xkurs.github.io/KEGE/)
 
-Подготовка к ЕГЭ по информатике
+Материалы для подготовки к ЕГЭ по информатике
