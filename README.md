@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## [Информатика 10-11](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
-Портал школы 179: Материалы по информатике и программированию
+Материалы по информатике и программированию на портале школы 179
 
 ## [КЕГЭ](https://xkurs.github.io/KEGE/)
 
