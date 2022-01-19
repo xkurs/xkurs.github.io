@@ -3,7 +3,7 @@ xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-Прикладная информатика в образовании
+### Прикладная информатика в образовании
 
 # [Школа](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
 
