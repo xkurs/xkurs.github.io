@@ -3,18 +3,18 @@ xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Прикладная информатика в образовании
+Прикладная информатика в образовании
 
-## [Школа](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
+# [Школа](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
 
 >Информатика 9  
 Физика  
 Астрономия
 
-### [Информатика 10-11](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
+## [Информатика 10-11](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
 Материалы по информатике и программированию на портале школы 179
 
-### [КЕГЭ](https://xkurs.github.io/KEGE/)
+## [КЕГЭ](https://xkurs.github.io/KEGE/)
 
 Материалы для подготовки к ЕГЭ по информатике
