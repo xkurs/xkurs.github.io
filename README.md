@@ -3,13 +3,13 @@ xkurs/xkurs is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Прикладная информатика в образовании
+# Школа
 
-# [Школа](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
+## [Курсы](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
 
->Информатика 9  
-Физика  
-Астрономия
+>Физика  
+Астрономия  
+Информатика-9
 
 ## [Информатика 10-11](https://server.179.ru/wiki/?page=Informatika/11_B "Школа179")
 
