@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # Школа
 
-## [Курсы](https://adjoining-approach-866.notion.site/School-4f36c7650e6941378b57e1b5bb74ee95 "Notion")
+## [Курсы](https://www.notion.so/19bba46184c34f9c9f77f55a7cfe32b0?v=fa1c90dfc7e145bc8d6772020325e852 "Notion")
 
 >Физика  
 Астрономия  
