@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 Материалы по информатике и программированию на портале школы 179
 
-## [КЕГЭ](https://xkurs.github.io/KEGE/)
+## [КЕГЭ](https://xkurs.github.io/KEGE/ "ЕГЭ по информатике")
 
 Материалы для подготовки к ЕГЭ по информатике
